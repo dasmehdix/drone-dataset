@@ -5,3 +5,7 @@ This dataset prepared for academical and competition purpose.The main idea of th
 
 
 Here is the [link](https://www.kaggle.com/dasmehdixtr/drone-dataset-uav) of dataset
+
+
+# Bonus
+I also added a python script(txt_path_generator_yolo) to write the path of images in a txt file to train YOLO-v3.
