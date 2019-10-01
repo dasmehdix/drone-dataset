@@ -8,15 +8,15 @@ Here is the [link](https://www.kaggle.com/dasmehdixtr/drone-dataset-uav) of data
 
 # Some Results
 ![image1](https://github.com/dasmehdix/drone-dataset/blob/master/results_of_yolo/chart1d2.png)
-_#500 Photo Yolo-v3 weights
+_# 500 Photo Yolo-v3 weights
 ![image2](https://github.com/dasmehdix/drone-dataset/blob/master/results_of_yolo/chart2d4.png)
-_#Full Dataset Darknet53 weights
+_# Full Dataset Darknet53 weights
 ![image3](https://github.com/dasmehdix/drone-dataset/blob/master/results_of_yolo/chart3d5.png)
-_#Full Dataset Yolo-v3 weights (tuned)
+_# Full Dataset Yolo-v3 weights (tuned)
 ![image4](https://github.com/dasmehdix/drone-dataset/blob/master/results_of_yolo/chart4d6.png)
-_#Full Dataset Yolov3-tiny weights
+_# Full Dataset Yolov3-tiny weights
 ![image5](https://github.com/dasmehdix/drone-dataset/blob/master/results_of_yolo/chart5d9.png)
-_#Full Dataset Yolov3-tiny weights(tuned)
+_# Full Dataset Yolov3-tiny weights(tuned)
 ## Bonus-1
 The xmlparser is written to solve a issue that occured in labelimg.When I labeled photos with LabelImg, There was no problem firstly.Then,When I changed the path of images(and format of images like jpg or png) the xml files become a problem.Because the path in the label xml file and the image path looks diffrent.So, Instead of label the photos again, [kubilay](https://github.com/kubilaysalih) write a script to change the path in the label xml files, so easyly we can train our images in every PC.
 
