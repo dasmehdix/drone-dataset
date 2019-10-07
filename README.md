@@ -24,3 +24,13 @@ The xmlparser is written to solve a issue that occured in labelimg.When I labele
 ## Bonus-2
 
 I also added a python script(txt_path_generator_yolo) to write the path of images in a txt file to train YOLO-v3.
+
+## Suggestion
+Images are in diffrent format like jpg, png or jpeg.I suggest you to convert all of them to jpg format.
+**For windows,
+-Open cmd
+-Go to the path that contain images
+-Run this command:
+```
+ren *. *.jpg
+```
