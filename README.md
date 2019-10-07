@@ -27,10 +27,11 @@ I also added a python script(txt_path_generator_yolo) to write the path of image
 
 ## Suggestion
 Images are in diffrent format like jpg, png or jpeg.I suggest you to convert all of them to jpg format.
-**For windows,
--Open cmd
--Go to the path that contain images
--Run this command:
+**For windows,**
+
+1.  Open cmd
+2.  Go to the path that contain images
+3.  Run this command:
 ```
 ren *. *.jpg
 ```
