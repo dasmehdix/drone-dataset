@@ -5,8 +5,9 @@ This dataset prepared for academical and competition purpose.The main idea of th
 
 
 Here is the [link](https://www.kaggle.com/dasmehdixtr/drone-dataset-uav) of dataset
-# WORKED!
-![YOLO](https://github.com/dasmehdix/drone-dataset/blob/master/example_yolo.gif)
+### Is it working really?!
+  ![s](https://github.com/dasmehdix/drone-dataset/blob/master/example_yolo.gif)
+### Answer:Yes, even with tiny one like above!
 # Some Results
 ![image1](https://github.com/dasmehdix/drone-dataset/blob/master/results_of_yolo/chart1d2.png)
 ###### 500 Photo Yolo-v3 weights
