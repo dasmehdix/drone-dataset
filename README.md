@@ -20,7 +20,7 @@ Here is the [link](https://www.kaggle.com/dasmehdixtr/drone-dataset-uav) of data
 ![image5](https://github.com/dasmehdix/drone-dataset/blob/master/results_of_yolo/chart5d9.png)
 ###### Full Dataset Yolov3-tiny weights(tuned)
 ## Bonus-1
-The xmlparser is written to solve a issue that occured in labelimg.When I labeled photos with LabelImg, There was no problem firstly.Then,When I changed the path of images(and format of images like jpg or png) the xml files become a problem.Because the path in the label xml file and the image path looks diffrent.So, Instead of label the photos again, [kubilay](https://github.com/kubilaysalih) write a script to change the path in the label xml files, so easyly we can train our images in every PC.
+The xmlparser is written to solve a issue that occured in labelimg. When I labeled photos with LabelImg, there was no problem firstly.Then, when I changed the path of images(and format of images like jpg or png) the xml files become a problem. Because the path in the label xml file and the image path looks diffrent.So, instead of labelling the photos again, [kubilay](https://github.com/kubilaysalih) write a script to change the path in the label xml files, so easyly we can train our images in every PC.
 
 
 ## Bonus-2
