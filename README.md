@@ -1,7 +1,7 @@
 # drone-dataset [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Drone dataset to lock on enemy drones
 
-This dataset prepared for academical and competition purpose. Main idea of this dataset is to guide our drone to other drones. Dataset includes ~1400 drone images and label files. The label files are in format of both .txt and .xml. So, You can use it with Tensorflow, Darknet and PyTorch too. Most of images taken from Google and Yandex's image search toolbox with image scrapers. The other images are cropped from drone videos that downloaded from Youtube. Results are pretty good.
+This dataset prepared for academical and competition purpose. Main idea of this dataset is to guide our drone to other drones. Dataset includes ~1400 drone images and label files. The label files are in format of both .txt and .xml. So, You can use it with Tensorflow, Darknet and PyTorch too. Most of images taken from Google and Yandex's image search toolbox with image(web) scrapers. The other images are cropped from drone videos that downloaded from Youtube. Results are pretty good(%86mAP).
 
 
 Here is the [link](https://www.kaggle.com/dasmehdixtr/drone-dataset-uav) of dataset
@@ -37,3 +37,5 @@ Images are in diffrent format like jpg, png or jpeg. I suggest you to convert al
 ```
 ren *. *.jpg
 ```
+
+## If you want to cite me, you can just mention link of the dataset which is enough for me. This dataset is freely available for academical and fun purpose :)
