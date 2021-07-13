@@ -38,4 +38,4 @@ Images are in diffrent format like jpg, png or jpeg. I suggest you to convert al
 ren *. *.jpg
 ```
 
-## If you want to cite me, you can just mention link of the dataset which is enough for me. This dataset is freely available for academical and fun purpose :)
+## You can cite me from [google scholar](https://scholar.google.com/citations?user=aqPpehwAAAAJ&hl=tr) or [researchgate](https://www.researchgate.net/profile/Mehdi-Oezel). Or, just mention link of the dataset which is enough for me. This dataset is freely available for academical and fun purpose :)
