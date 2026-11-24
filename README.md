@@ -38,4 +38,12 @@ Images are in diffrent format like jpg, png or jpeg. I suggest you to convert al
 ren *. *.jpg
 ```
 
-## You can cite me from [google scholar](https://scholar.google.com/citations?user=aqPpehwAAAAJ&hl=tr) or [researchgate](https://www.researchgate.net/profile/Mehdi-Oezel). Or, just mention link of the dataset which is enough for me. This dataset is freely available for academical and fun purpose :)
+## DOI and Citation
+
+This dataset is now officially archived on Zenodo and has a permanent Digital Object Identifier (DOI).
+
+DOI: https://doi.org/10.5281/zenodo.24499553
+
+If you use this dataset in your research, please cite:
+
+Özel, M. (2019). Drone Detection Image Dataset (UAV) (Version 1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24499553
